@@ -21,6 +21,9 @@ Sources to credit
 
 A lof of my work is based in the concepts and implementations of those concepts 
 
+https://bowdoin.instructure.com/courses/4486/pages/processing-quickstart?module_item_id=292031
+
+
 https://processing.org/tutorials/transform2d
 
 https://processing.org/tutorials/interactivity
