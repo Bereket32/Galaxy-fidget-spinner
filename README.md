@@ -16,3 +16,17 @@ Document bugs in your code, if any. (Ideally, you would have no bugs in your fin
 Credit any external sources or references.
 
 No known bugs.
+
+Sources to credit
+
+A lof of my work is based in the concepts and implementations of those concepts 
+
+https://processing.org/tutorials/transform2d
+
+https://processing.org/tutorials/interactivity
+
+https://processing.org/tutorials/transform2d
+
+https://processing.org/tutorials/arrays
+
+These examples helped me etch out the the circles in an interactive way. From there I tried to tweak and change it to make it my own and what I wanted of it.
